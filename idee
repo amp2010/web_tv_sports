@@ -17,3 +17,67 @@ Courant:
  - ??? WebTVSport ferme manuellement l'acces vidéo  
 
 
+Solution proposé:
+Replacer le plus possible WebTVSport du mixe.
+ - Automatiser les Textos et les posts sur Facebook.
+ - Faire en sort que le producteur puis valider lui-meme la qualité. 
+
+
+
+
+
+---- Vidéotheque ----
+Banque de vidéo
+
+Se qu'ils ont:
+ - Page web partiel
+
+Solution proposé:
+ - Refaire la page Vidétheque
+   - Gestion des achats de VoD avec l'abonné
+   - Affichage des vidéos  (Idéalement, intégré les vidéos dans le site)
+
+
+
+---- Révision du site ----
+Revoir les fonctionnalités
+
+Se qu'ils ont:
+ - Page web partiel
+
+Solution proposé:
+   - Utilisé des outils proposés par les divers organisation préexistant (ie. Vimeo)
+   - Rendre le site uniforme (Index & connection)
+
+
+---- Étude de vidéo ----
+Timestamp des vidéos avec le temps des évenements
+
+Se qu'ils ont:
+ - N/A
+
+Solution proposé:
+ - Permettre la création d'evenement de timestamp.
+ - Afficher tout les evenements sur la pages
+ - Clicker un evenement change le positionement du video (Vimeo.com/12312?#t=1m2s)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
