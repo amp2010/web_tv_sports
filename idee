@@ -1,0 +1,19 @@
+Idée
+
+
+
+---- Service a la clientele ----
+Gestion du visionnement (début, validation, Difusion (Facebook), fin)
+
+Courant:
+ - Texto (Début du signal (15-20m avant début du match))   producteur -> WebTVSport
+ - WebTVSport valide la réception du signal et la qualité.
+ - Texto pour confirmer l'état du signal   producteur <- WebTVSport
+ - Message Facebook pour signaler le début de diffision :  WebTVSport -> Facebook
+ - Si signal plante, un Texto est envoyer au producteur     : producteur <- WebTVSport
+    - Producteur répond s'il peut le corrigé
+    - Si non, WebTVSport averti sur facebook l'intéruption  : WebTVSport -> Facebook
+ - Quand terminer, producteur confirme le débranchement par Texto   : producteur -> WebTVSport
+ - ??? WebTVSport ferme manuellement l'acces vidéo  
+
+
